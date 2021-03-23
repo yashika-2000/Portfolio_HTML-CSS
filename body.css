@@ -1,0 +1,112 @@
+body
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.header
+{
+	background:url('bg.jpeg');
+	background-size:cover ;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.navbar
+{
+	font-size: 45px;
+	text-align:center;
+	padding:20px}
+
+.head-content
+{text-align:center;
+}
+.head-content img
+{
+	border-radius: 50%;
+	border:2px solid #fff;
+	margin-top-20px;
+}
+.name
+{cursor:pointer;
+font-size:50px;
+color:#fff;
+font-family: algerian;
+}
+.desc{  
+	cursor:default;
+	font-size: 30px;
+	color:#fff;
+	font-family:algerian;
+}.About-section h2
+{
+	font-size:30px;
+	font-family:Algerian;
+}
+
+.About-section p
+{
+	font-size:30px;
+	font-family:Times Roman;
+	text-align: center;
+	border:15px solid gray;
+	padding:20px;
+	margin:0;
+
+} 
+
+.skills-section 
+{text -text-decoration: underline;
+font-size:30px;
+font-family:Algerian;
+padding:10px;
+}
+.Skills-section p
+{
+	font-size:30px;
+	font-family:Times Roman;
+	text-align: center;
+	border:15px solid gray;
+	padding:20px;
+	margin:0;
+}
+.Skills-section h2
+
+font-size:30px;
+font-family:Algerian;
+padding:10px;
+}
+ .interests
+{ 
+width:100%;
+height:400px;
+background:#9ea0a3; }
+
+.Interests h2
+{
+	text-align:center;
+	font-size:30px;
+	font-family:Algerian;
+	text-decoration: underline;
+}
+.Interests p
+{
+	font-size:30px;
+	font-family:Times Roman;
+	text-align: center;
+	border:15px solid gray;
+	padding:20px;
+	margin:0;
+}
+
+.Contact-section{
+	height:56vh;
+	background:gray;
+	text-align:center;
+}
+.Contact-section p
+{font-size:30px;
+font-weight:bold;
+}
